@@ -1,1 +1,1 @@
-# Nginxのログを fluentd + elasticsearch + kibana で可視化してみた
+# logingのdocker-compose.yml
