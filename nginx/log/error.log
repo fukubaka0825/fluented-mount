@@ -1,0 +1,4 @@
+2019/04/24 13:37:59 [error] 6#6: *1 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8090", referrer: "http://localhost:8090/"
+2019/04/25 14:58:25 [error] 7#7: *1 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8090", referrer: "http://localhost:8090/"
+2019/05/06 14:46:34 [error] 6#6: *1 open() "/usr/share/nginx/html/book/all" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /book/all HTTP/1.1", host: "localhost:8090"
+2019/05/06 14:46:51 [error] 6#6: *2 open() "/usr/share/nginx/html/book/all" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /book/all HTTP/1.1", host: "localhost:8090"
